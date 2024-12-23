@@ -35,8 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   bitsdojo_window: ^0.1.5
-  stacked: ^3.1.0-beta.0
-  stacked_services: ^0.9.8
+  stacked: ^3.4.4
+  stacked_services: ^1.6.0
+  win32: ^5.9.0
 
 dev_dependencies:
   flutter_test:
@@ -50,7 +51,7 @@ dev_dependencies:
   flutter_lints: ^1.0.0
   build_runner: ^2.2.0
 
-  stacked_generator: ^0.8.1
+  stacked_generator: ^1.6.1
   mockito: ^5.1.0
 
 # For information on the generic Dart part of this file, see the
